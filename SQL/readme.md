@@ -1,7 +1,7 @@
 # Исследование базы данных сервиса Stackoverflow.
 
 ## Данные
-В наличии версия базы данных StackOverflow с данными о постах за 2008 год.
+В наличии база данных StackOverflow с данными о постах за 2008 год.
 ![ER-диаграмма базы](https://github.com/Kedrynez/Yandex_Practicum/blob/main/SQL/stackoverflow.png)
 
 ## Задача
