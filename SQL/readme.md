@@ -5,7 +5,7 @@
 ![ER-диаграмма базы](https://github.com/Kedrynez/Yandex_Practicum/blob/main/SQL/stackoverflow.png)
 
 ## Задача
-Используя SQL-запросы в Jupyter Notebook с помощью библиотеки SQLAlchemy дать ответы на поставленные вопросы.
+Используя SQL-запросы в Jupyter Notebook дать ответы на поставленные вопросы.
 
 ## Стек
 Python, PostgreSQL, Pandas,  SQLAlchemy, Seaborn, Matplotlib  
